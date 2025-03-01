@@ -62,6 +62,8 @@ The task extraction pipeline follows these steps:
 
 ✔ Output includes: task, responsible_entity, deadline, category, and cluster_id.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 PART - B
 
 Sentiment Analysis on Customer Reviews
